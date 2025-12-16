@@ -2,7 +2,6 @@
   <img src="images/divider_uau2.png" width="500">
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C1BA1&width=435&lines=Hi%2C+I%E2%80%99m+Sthefany+Alves!+" alt="Typing SVG" /></a> 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sthefanygsa&show_icons=true&theme=midnight-purple"
