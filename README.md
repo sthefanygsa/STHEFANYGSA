@@ -1,4 +1,3 @@
 <p align="center">
-  <img src="images/divider_uau2.png" width="500">
+  <img src="images/download (10).gif" width="500">
 </p>
-
